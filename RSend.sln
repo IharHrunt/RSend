@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSend", "RSend\RSend.csproj", "{0EC23947-BB8C-40CD-94FB-3553A7AEC29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{7655A01C-7B24-4630-B9B6-BA0754C84641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{EAEE8F53-8B4D-4A6E-9477-C3B19E50C318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alert", "Alert\Alert.csproj", "{91133C40-5C0F-46C1-9E75-3EF54FAFC452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC23947-BB8C-40CD-94FB-3553A7AEC29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC23947-BB8C-40CD-94FB-3553A7AEC29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC23947-BB8C-40CD-94FB-3553A7AEC29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC23947-BB8C-40CD-94FB-3553A7AEC29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7655A01C-7B24-4630-B9B6-BA0754C84641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7655A01C-7B24-4630-B9B6-BA0754C84641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7655A01C-7B24-4630-B9B6-BA0754C84641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7655A01C-7B24-4630-B9B6-BA0754C84641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEE8F53-8B4D-4A6E-9477-C3B19E50C318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEE8F53-8B4D-4A6E-9477-C3B19E50C318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEE8F53-8B4D-4A6E-9477-C3B19E50C318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEE8F53-8B4D-4A6E-9477-C3B19E50C318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91133C40-5C0F-46C1-9E75-3EF54FAFC452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91133C40-5C0F-46C1-9E75-3EF54FAFC452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91133C40-5C0F-46C1-9E75-3EF54FAFC452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91133C40-5C0F-46C1-9E75-3EF54FAFC452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
