@@ -872,7 +872,6 @@ namespace Server
             thrMain.Start();
         }
 
-
         public void CreatefileDat()
         {
             try
